@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "description": "This is a ES4X empty project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "es4x test index.test.js",
+    "postinstall": "es4x install",
+    "start": "es4x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "name": "vertx",
+  "devDependencies": {
+    "@vertx/unit": "^3.8.5"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.149",
+    "@vertx/web": "^3.8.5",
+    "lodash": "^4.17.15"
+  }
+}
