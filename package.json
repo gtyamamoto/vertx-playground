@@ -17,6 +17,6 @@
   "dependencies": {
     "@types/lodash": "^4.14.149",
     "@vertx/web": "^3.8.5",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
